@@ -1,0 +1,18 @@
+How to capture network traffic? SPAN vs TAP
+
+What are the differences between SPAN and TAP?
+port mirroring (commonly called SPAN) & TAP (Terminal Access Point)
+
+Port mirroring, also known as SPAN or roving analysis, is a method of monitoring network traffic which forwards a copy of each incoming and/or outgoing packet from one (or several) port(s) (or VLAN) of a switch to another port where the analysis device is connected. 
+
+A network TAP (Terminal Access Point) is a hardware device which can passively capture traffic on a network. It is commonly used to monitor the traffic between two points in the network.
+
+What types of network devices can support network traffic mirroring?
+APS
+
+How can network traffic mirroring be used for network security?
+A good way to capture traffic on several ports at once
+TAPs can also be used in security applications because they are non-obtrusive, are not detectable on the network, can deal with full-duplex and non-shared networks, and will usually pass-through traffic even if the tap stops working or loses power.
+
+Are there any legal or ethical considerations when using network traffic mirroring?
+Not appropriate for the observation of a narrow traffic range
