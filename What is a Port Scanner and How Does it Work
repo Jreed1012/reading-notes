@@ -1,0 +1,45 @@
+Reading
+For Lecture & Lab
+What is a Port Scanner and How Does it Work?
+
+What is a port? A port is a mailbox…You can open and close the mailbox to restrict access to it. You can also send a letter/ relay message through this item.
+What does a port scanner send to a port to check the current status? Send a packet to the network to check the status. 
+When a port scanner sends a request to connect, what are the three possible responses? Open listening  (available for use)/ Closed not listening  (in use) /Filtered or blocked  not listening.
+What is the difference between TCP and UDP? TCP and UDP are the two most common protocols in use for Internet Protocol (IP) networks. Transmission Control Protocol (TCP) is a nice orderly transaction protocol: TCP sends each packet in order, complete with error checking, verification, and a 3-way handshake to confirm each packet is successful. UDP doesn’t have any error checking but tends to be faster. Live streaming and online video games often use UDP for this reason. UDP is a connectionless protocol, so programs that use UDP just send the data 
+
+List and describe the ports used for the following:
+Telnet
+SSH
+DNS
+SMTP
+HTTP
+HTTPS
+RDP
+Ping
+
+Telnet:
+Port: 23
+Telnet is a network protocol that allows you to remotely access and manage devices 
+SSH (Secure Shell):
+Port: 22
+Description: SSH is a secure network protocol that is used for secure remote access and data transfer. It provides encrypted communication and authentication between a client and a server, often used for remote administration.
+DNS (Domain Name System):
+Port: 53
+Description: DNS is a protocol that translates human-readable domain names into IP addresses. It is used to locate and translate domain names into IP addresses for routing on the Internet.
+SMTP (Simple Mail Transfer Protocol):
+Port: 25 (unencrypted), 587 (encrypted, submission), 465 (deprecated)
+Description: SMTP is a protocol used for sending and receiving email messages between servers. It's responsible for the delivery of emails from a client to a server or between servers.
+HTTP (Hypertext Transfer Protocol):
+Port: 80
+Description: HTTP is the foundation of data communication on the World Wide Web. It is used for transferring hypertext, images, videos, and other resources between a client (web browser) and a web server.
+HTTPS (Hypertext Transfer Protocol Secure):
+Port: 443
+Description: HTTPS is a secure version of HTTP that uses encryption to ensure secure data exchange between a web browser and a web server. It is commonly used for secure online transactions and sensitive data transmission.
+RDP (Remote Desktop Protocol):
+Port: 3389
+Description: RDP is a protocol developed by Microsoft that allows users to connect and control a remote computer over a network. It provides a graphical interface for remote access and management.
+Ping:
+Port: Ping does not use a specific port; it uses ICMP (Internet Control Message Protocol).
+Description: Ping is a utility that sends ICMP Echo Request messages to a target host and waits for an ICMP Echo Reply. It is used to test network connectivity and measure round-trip time between devices.
+
+The reference for the Port are from ChatGPT https://chat.openai.com/share/83711736-9ee8-47de-8fc7-8b9f96602f12
