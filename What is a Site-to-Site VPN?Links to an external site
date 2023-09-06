@@ -1,0 +1,32 @@
+What is a Site-to-Site VPN?Links to an external site.
+
+What is a site-to-site VPN?
+A site-to-site virtual private network (VPN) refers to a connection set up between multiple networks
+
+What is TCP/IP and what is it used for?
+TCP/IP outlines how data is organized according to packets, given addresses, transmitted, and received across different computers on the internet.
+
+What are some popular reasons for using a VPN?
+Because of people wanting to mask their IP addresses and surf the internet more safely.
+
+Explain the difference between the three types of VPNs.
+ 
+
+Remote Access VPN:
+
+Purpose: Provides secure access for remote users to the organization's network.
+Users: Individuals working remotely.
+Authentication: Users log in with credentials.
+Encryption: Data between user device and network is encrypted.
+Site-to-Site VPN:
+
+Purpose: Connects separate LANs across different locations.
+Networks: Entire networks are connected.
+Configuration: VPN gateways/routers establish connection.
+Encryption: Data between connected networks is encrypted.
+Extranet-based VPN:
+
+Purpose: Enables secure collaboration with trusted external partners.
+Partners: Connects an organization's network with partners.
+Access Control: Controlled access to specific resources.
+Security: Data shared with partners is encrypted.
