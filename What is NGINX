@@ -1,0 +1,12 @@
+What is NGINX?Links to an external site.
+
+What are some common use cases for NGINX?
+used as a reverse proxy and load balancerLinks to an external site. to manage incoming traffic and distribute it to slower upstream servers – anything from legacy database servers to microservices.
+
+How does NGINX handle tasks that could slow down the web server?
+ NGINX efficiently handles tasks that might slow down your web server, such as negotiating SSL/TLS or compressing and caching content to improve performance.
+
+Describe, as if to a non-technical friend how to actually pronounce “NGINX”, and why an org might choose to use it.
+en-juh-neks
+
+NGINX Plus and NGINX are the best-in-class web server and application delivery solutions used by high‑traffic websites such as Dropbox, Netflix, and Zynga. More than 350 million websitesLinks to an external site. worldwide rely on NGINX Plus and NGINX Open Source to deliver their content quickly, reliably, and securely.
