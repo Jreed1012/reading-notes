@@ -1,0 +1,30 @@
+Computer Network - AAA (Authentication, Authorization and Accounting)Links to an external site.
+
+Explain each of the three A’s as you would to a non-technical family member. Use an analogy or a story.
+Authentication – 
+The process by which it can be identified that the user. Using known information unique to the user to identify the user. 
+Authorization – 
+Do you have access to be in this area. Similiar to TOP secret clearance in the military you have to have that clearance to get the information. 
+Accounting – 
+It provides means of monitoring and capturing the events done by the user while accessing the network resources.  Log event/Browser history to collect past events from user.  
+ 
+
+What should the administrator do if the ACS server fails to authenticate a user during AAA implementation?
+the administrator should mention using the local database of the device as a backup, in the method list, to implement AAA.
+
+What is the role of the NAS in the AAA implementation using an ACS server? Use a diagram. 
+sends authentication requests to the ACS server and the server takes the decision to allow the user to access the network resource or not according to the credentials provided by the user.
+
+See attachment for diagram.
+
+RADIUS ConceptsLinks to an external site.
+
+What are the benefits of using RADIUS for authentication and authorization?
+     Having a central database provides better security, enabling a company to set up a policy that can be applied at a single administered network point. A central database also makes it easier to track usage for billing for the network access or internet service provider and for keeping network statistics
+
+What is RADIUS and what does it stand for?
+      Remote Authentication Dial-In User Service
+Research: What encryption algorithms does RADIUS use?
+        MD5 XORing
+
+Attached File: 1406-6 (1).png
