@@ -1,0 +1,4 @@
+What is a server, and how is it different from a regular computer? Servers are dedicated machines or software applications that provide specific services or resources. How would you describe this difference to a friend who doesn’t know much about computers? It's the data storage of a system/ product. 
+How does the way Windows Server receives updates differ from Windows Home and Pro? Windows 10 updates arrive faster and more often, it has capabilities like Timeline and Cortana that are missing on Windows Server, and it isn't as locked down. 
+Does Windows Server have different hardware requirements than Windows Home or Pro?
+Windows Server also supports more powerful hardware. While Windows 10 Pro has a max limit of 2 TB of RAM, Windows Server allows for 24 TB.
